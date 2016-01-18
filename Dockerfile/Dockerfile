@@ -1,5 +1,5 @@
 FROM python:3.5
-MAINTAINER Zenly Data Team "team@zen.ly"
+MAINTAINER "0xC70FF3"
 
 # installing base tools for building
 RUN apt-get update && apt-get install -y \
